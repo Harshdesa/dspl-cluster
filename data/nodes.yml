@@ -1,0 +1,112 @@
+Nodes:
+  r:
+    ip: 10.176.147.60
+
+#
+#  sgx1:
+#    ip: 192.168.4.51
+#    proxy: r
+
+  sgx2:
+    ip: 192.168.4.52
+    proxy: r
+
+  sgx3:
+    ip: 192.168.4.53
+    proxy: r
+
+  sgx4:
+    ip: 192.168.4.54
+    proxy: r
+
+  sgx5:
+    ip: 192.168.4.55
+    proxy: r
+
+  sgx6:
+    ip: 192.168.4.56
+    proxy: r
+
+  sgx7:
+    ip: 192.168.4.57
+    proxy: r
+
+#  node0:
+#    ip: 192.168.4.5
+#    proxy: r
+
+  node1:
+    ip: 192.168.4.11
+    proxy: r
+
+#  node2:
+#    ip: 192.168.4.12
+#    proxy: r
+
+  node3:
+    ip: 192.168.4.13
+    proxy: r
+
+  node4:
+    ip: 192.168.4.14
+    proxy: r
+
+  node5:
+    ip: 192.168.4.15
+    proxy: r
+
+  node6:
+    ip: 192.168.4.16
+    proxy: r
+
+  node7:
+    ip: 192.168.4.17
+    proxy: r
+
+  node8:
+    ip: 192.168.4.18
+    proxy: r
+
+  node9:
+    ip: 192.168.4.19
+    proxy: r
+
+  node10:
+    ip: 192.168.4.20
+    proxy: r
+
+  node11:
+    ip: 192.168.4.21
+    proxy: r
+
+  node12:
+    ip: 192.168.4.22
+    proxy: r
+
+  node13:
+    ip: 192.168.4.23
+    proxy: r
+
+#  node14:
+#    ip: 192.168.4.24
+#    proxy: r
+
+  node15:
+    ip: 192.168.4.25
+    proxy: r
+
+  node16:
+    ip: 192.168.4.26
+    proxy: r
+
+  node17:
+    ip: 192.168.4.27
+    proxy: r
+
+  node18:
+    ip: 192.168.4.28
+    proxy: r
+
+  node19:
+    ip: 192.168.4.29
+    proxy: r

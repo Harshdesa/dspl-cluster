@@ -1,0 +1,2 @@
+  548  rm -rf .commands 
+  549  git status

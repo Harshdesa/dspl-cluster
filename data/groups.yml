@@ -1,0 +1,50 @@
+Groups:
+  # SGX Machines
+  sgx:
+    - sgx2
+    - sgx3
+    - sgx4
+    - sgx5
+    - sgx6
+    - sgx7
+
+  # Generation 1 - **Try not to use these**
+  g1:
+    - node1
+    - node3
+    - node4
+    - node5
+    - node6
+
+  # Generation 2
+  g2:
+    - node7
+    - node8
+    - node9
+    - node10
+    - node11
+    - node12
+    - node13
+    - node15
+    - node16
+    - node17
+    - node18
+    - node19
+
+  # Breaking into smaller groups
+  g21:
+    - node7
+    - node8
+    - node9
+    - node10
+    - node11
+    - node12
+    - node13
+
+  # Breaking into smaller groups
+  g22:
+    - node15
+    - node16
+    - node17
+    - node18
+    - node19
